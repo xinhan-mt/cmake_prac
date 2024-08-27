@@ -1,0 +1,14 @@
+/backup/cmake/t3/build/CMakeFiles/install/strip.dir
+/backup/cmake/t3/build/CMakeFiles/install/local.dir
+/backup/cmake/t3/build/CMakeFiles/install.dir
+/backup/cmake/t3/build/CMakeFiles/list_install_components.dir
+/backup/cmake/t3/build/CMakeFiles/rebuild_cache.dir
+/backup/cmake/t3/build/CMakeFiles/edit_cache.dir
+/backup/cmake/t3/build/lib/CMakeFiles/install/strip.dir
+/backup/cmake/t3/build/lib/CMakeFiles/install/local.dir
+/backup/cmake/t3/build/lib/CMakeFiles/install.dir
+/backup/cmake/t3/build/lib/CMakeFiles/list_install_components.dir
+/backup/cmake/t3/build/lib/CMakeFiles/rebuild_cache.dir
+/backup/cmake/t3/build/lib/CMakeFiles/edit_cache.dir
+/backup/cmake/t3/build/lib/CMakeFiles/hello_static.dir
+/backup/cmake/t3/build/lib/CMakeFiles/hello.dir
